@@ -25,7 +25,7 @@ const Home = () => {
       className="flex flex-col items-center justify-center h-screen bg-gray-100"
     >
       <motion.h1 variants={childVariants} className="text-4xl font-bold text-center mb-4">
-        Welcome to the Eiffel Tower Tour
+        Welcome to the Eiffel Tower Tour Schools
       </motion.h1>
       <motion.p variants={childVariants} className="text-lg text-center mb-6">
         Experience the beauty and history of the Eiffel Tower like never before.
