@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rct_tour_eiffel/static/css/main.03eec5f6.css",
-    "main.js": "/rct_tour_eiffel/static/js/main.45a3c510.js",
+    "main.js": "/rct_tour_eiffel/static/js/main.b459a28f.js",
     "static/js/453.90fbb263.chunk.js": "/rct_tour_eiffel/static/js/453.90fbb263.chunk.js",
     "index.html": "/rct_tour_eiffel/index.html",
     "main.03eec5f6.css.map": "/rct_tour_eiffel/static/css/main.03eec5f6.css.map",
-    "main.45a3c510.js.map": "/rct_tour_eiffel/static/js/main.45a3c510.js.map",
+    "main.b459a28f.js.map": "/rct_tour_eiffel/static/js/main.b459a28f.js.map",
     "453.90fbb263.chunk.js.map": "/rct_tour_eiffel/static/js/453.90fbb263.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03eec5f6.css",
-    "static/js/main.45a3c510.js"
+    "static/js/main.b459a28f.js"
   ]
 }
