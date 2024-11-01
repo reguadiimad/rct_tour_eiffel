@@ -28,7 +28,7 @@ const Home = () => {
         Welcome to the Eiffel Tower Tour Schools
       </motion.h1>
       <motion.p variants={childVariants} className="text-lg text-center mb-6">
-        Experience the beauty and history of the Eiffel Tower like never before.
+        Experience the beauty and history of the Eiffel Towerj like never before.
       </motion.p>
       <motion.button
         variants={childVariants}
